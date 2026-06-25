@@ -2,6 +2,10 @@
 
 > A weekly household handover system for two — built on appreciation, not blame.
 
+<p align="center">
+  <img src="docs/demo-preview.png" alt="nest-notes demo report" width="600">
+</p>
+
 ---
 
 ## Why this exists

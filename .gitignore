@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.converted/
+/tmp/handover_analysis.json
